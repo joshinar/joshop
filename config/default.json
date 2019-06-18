@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://abc123:abc123!@cluster0-depbt.mongodb.net/joshop?retryWrites=true&w=majority",
+  "jwtsecret": "joshopcret"
+}
